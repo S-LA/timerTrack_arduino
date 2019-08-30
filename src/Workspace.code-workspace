@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\kwhil\\OneDrive\\Code\\Arduino\\PhotonTimer(v.2.june)-main\\laserTimerAlpha-master"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\kwhil\\.platformio\\penv\\Scripts;C:\\Users\\kwhil\\.platformio\\penv;C:\\Perl64\\site\\bin;C:\\Perl64\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\LLVM\\bin;C:\\MinGW\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\kwhil\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\kwhil\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\kwhil\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\;C:\\Users\\kwhil\\AppData\\Local\\atom\\bin;C:\\Users\\kwhil\\AppData\\Local\\GitHubDesktop\\bin;C:\\Perl64\\site\\bin;C:\\Perl64\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\LLVM\\bin;C:\\MinGW\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\kwhil\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\kwhil\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\kwhil\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\;C:\\Users\\kwhil\\AppData\\Local\\atom\\bin;C:\\Users\\kwhil\\AppData\\Local\\GitHubDesktop\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
